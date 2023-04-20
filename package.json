@@ -1,0 +1,26 @@
+{
+    "name": "gpt-test-prompt",
+    "version": "1.0.0",
+    "description": "A command-line tool for getting gpt test prompt",
+    "bin": {
+        "getprompt": "./index.js"
+    },
+    "engines": {
+        "node": ">=10.0.0"
+    },
+    "keywords": [
+        "test",
+        "gpt",
+        "unit",
+        "react"
+    ],
+    "author": {
+        "name": "Sagar Khanal",
+        "email": "sagarrkhanal@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sagarkhanal07/get-test-prompt.git"
+    },
+    "license": "ISC"
+}
